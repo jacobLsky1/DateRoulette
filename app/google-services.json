@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328975429817",
+    "project_id": "dateroulette-f8099",
+    "storage_bucket": "dateroulette-f8099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328975429817:android:54c3ddf250516a88ecab68",
+        "android_client_info": {
+          "package_name": "com.jacoblipsky.dev.dateroulette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328975429817-n8aldcs9enssnuksdhepe0vgrn56dh0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2zsGnPVujjGjYUikfbFqEUCtZeNTXHZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328975429817-n8aldcs9enssnuksdhepe0vgrn56dh0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
